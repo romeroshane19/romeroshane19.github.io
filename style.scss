@@ -70,12 +70,14 @@ p {
 
 a {
   color: #1c3144;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: #1c3144;
   }
 }
+
+
 
 ul, ol {
   margin: 15px 0;
