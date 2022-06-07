@@ -70,10 +70,11 @@ p {
 
 a {
   color: #1c3144;
-  text-decoration: underline;
+  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #1c3144;
+    text-decoration: underline;
+    color: #1c3144;	  
   }
 }
 
