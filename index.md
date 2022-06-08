@@ -13,13 +13,11 @@ Shane Romero is a Master of Computer Science student at the Colorado School of M
 
 ## About My Advisors
 
-Tom Williams is an Associate Professor of Computer Science at the Colorado School of Mines, where he directs the Mines Interactive Robotics Research Lab (MirrorLab). Prior to joining Mines, Tom earned a joint PhD in Computer Science and Cognitive Science from Tufts University in 2017. Tom’s research focuses on enabling and understanding natural language based human-robot interaction that is sensitive to environmental, cognitive, social, and moral context. His work is funded by grants from NSF, ONR, and ARL, as well as by Early Career awards from NSF, NASA, and AFOSR.
+Tom Williams is an Associate Professor of Computer Science at the Colorado School of Mines, where he directs the Mines Interactive Robotics Research Lab (MIRRORLab). Prior to joining Mines, Tom earned a joint PhD in Computer Science and Cognitive Science from Tufts University in 2017. Tom’s research focuses on enabling and understanding natural language based human-robot interaction that is sensitive to environmental, cognitive, social, and moral context. His work is funded by grants from NSF, ONR, and ARL, as well as by Early Career awards from NSF, NASA, and AFOSR.
 
 Saad Elbeleidy is a PhD Candidate at the MIRRORLab researching ways to improve teleoperation interfaces for robot dialogue.
 
-Terran Mott is a PhD student at the Colorado School of Mines ...
-
-https://mirrorlab.mines.edu/
+Learn more about [MIRRORLab](https://mirrorlab.mines.edu/)
 
 ## About My Project
 
