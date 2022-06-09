@@ -9,7 +9,7 @@ published: true
 
 ## About Me
 
-Shane Romero is a Master of Computer Science student at the Colorado School of Mines with an expected graduation date in December 2023. They are interested in human-computer interaction and the intersection of computer science and social good, especially, in education and healthcare. They spend their time promoting STEM to young kids and have taught Introduction to Python to 60 undergraduate students. Shane holds a Bachelor's in Political Economy from the University of California, Berkeley. 
+Shane Romero is a Master of Computer Science student at the Colorado School of Mines. They are interested in human computer interaction and the intersection of computer science and social good, especially, in education and healthcare. Shane is expected to graduate in December 2023. They spend their time promoting STEM to young kids and has taught an introductory Python course at Mines. Shane holds a Bachelor's in Political Economy from the University of California, Berkeley. 
 
 ## About My Advisors
 
@@ -20,7 +20,7 @@ Saad Elbeleidy is a PhD Candidate at the MIRRORLab researching ways to improve t
 
 ## About My Project
 
-The use of socially-assistive robots (SAR) in therapy and its effect on children have been widely researched; however, there hasn't been much focus on the users that operate these systems such as therapists and educators. Previous research have found that a lot of time is spent on preparation and paperwork which can make it difficult to integrate a new tool like SARs into existing programs. Though SARs have been proven effective with children, the extra workload is more trouble that it's worth. Shane's research is focused on understanding how and which tool(s) can best support therapists and educators, ultimately, making it easier for them to integrate SARs in their classrooms and client sessions. 
+The use of socially-assistive robots (SARs) in therapy and its effect on children have been widely researched; however, there hasn't been much focus on the users that operate these systems such as therapists and educators(T/Es). Though SARs have been proven effective with children, the extra workload for T/Es could be more trouble that it's worth. Shane's research is focused on understanding how and which tool(s) best support T/Es that can ultimately make it easier for them to integrate SARs in their classrooms and client sessions. 
 
  
 ## Weekly Blog Posts
